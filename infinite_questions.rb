@@ -1,8 +1,8 @@
-input = ""
+input = ''
 
-while input != "no"
-  puts "CAN I GET YOU ANYTHING?"
-  print ">> "
+while input != 'no'
+  puts 'CAN I GET YOU ANYTHING?'
+  print '>> '
   input = gets.chomp
 end
 
